@@ -1,2 +1,0 @@
-# ventas
-Sistema de ventas
